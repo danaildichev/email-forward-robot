@@ -1,0 +1,87 @@
+======================================================================
+Forwards from forwardin-address@alt-service.com to support@service-provider.com
+======================================================================
+
+Reader found 3 messages
+sent email 'Re: imap_fetchmybody [14E00-0E53A]' to support@service-provider.com<br>ready to move email to 'forwarded' folder
+moved msg 1 to 'Forwarded' folder
+sent email 'Re: test .2 [14E00-0E524]' to support@service-provider.com<br>ready to move email to 'forwarded' folder
+moved msg 1 to 'Forwarded' folder
+sent email 'Re: attach test [14E00-0E52F]' to support@service-provider.com<br>ready to move email to 'forwarded' folder
+moved msg 1 to 'Forwarded' folder
+
+======================================================================
+Reader found 3 messages on 2017-06-29 00:20:04
+sent email 'imap_fetchmybody' to support@service-provider.com<br>ready to move email to 'forwarded' folder
+moved msg 1 to 'Forwarded' folder
+sent email 'test .2' to support@service-provider.com<br>ready to move email to 'forwarded' folder
+moved msg 1 to 'Forwarded' folder
+sent email 'attach test' to support@service-provider.com<br>ready to move email to 'forwarded' folder
+moved msg 1 to 'Forwarded' folder
+
+======================================================================
+
+Reader found 3 messages on 2017-06-29 00:25:12
+forwarded message 'imap_fetchmybody'
+moved message to 'Forwarded' folder
+forwarded message 'test .2'
+moved message to 'Forwarded' folder
+forwarded message 'attach test'
+moved message to 'Forwarded' folder
+
+======================================================================
+
+Reader found 9 messages on 2017-06-29 00:35:08
+forwarded message 'Re: attach test [14E00-31812]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: attach test [14E00-31825]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: test .2 [14E00-31830]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: attach test [14E00-31839]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: imap_fetchmybody [14E00-3184D]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: test .2 [14E00-3186A]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: attach test [14E00-31844]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: Re: imap_fetchmybody [14E00-0E53A] [14E00-31858]'
+moved message to 'Forwarded' folder
+forwarded message 'Re: test .2 [14E00-31860]'
+moved message to 'Forwarded' folder
+
+======================================================================
+
+Reader found 13 messages on 2017-06-29 00:50:07
+forwarded message 'imap_fetchmybody'
+moved message to 'Forwarded' folder
+
+forwarded message 'test .2'
+moved message to 'Forwarded' folder
+
+forwarded message 'attach test'
+moved message to 'Forwarded' folder
+
+======================================================================
+
+Reader found 1 messages on 2017-06-30 22:25:04
+forwarded message '. . .'
+moved message to 'Forwarded' folder
+
+======================================================================
+
+Reader found 1 messages on 2017-07-04 10:15:25
+forwarded message 'Daily schedule on Tuesday, July 4, 2017'
+moved message to 'Forwarded' folder
+
+
+======================================================================
+
+Reader found 1 messages on 2017-07-05 11:40:03
+forwarded message 'product tracking 99999-99AAA'
+moved message to 'Forwarded' folder
+
+
+======================================================================
+
